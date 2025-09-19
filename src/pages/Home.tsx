@@ -51,22 +51,40 @@ const Home = () => {
   
   const heroSlides = [
     {
-      image: 'https://images.pexels.com/photos/5691638/pexels-photo-5691638.jpeg',
-      title: 'Premium Quality Timber',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%201.jpg',
+      title: 'Premium Quality Timberyard',
       subtitle: 'Sustainable • Durable • Beautiful',
       description: 'Discover our extensive collection of premium timber and plywood for all your construction and design needs.'
-    },
-    {
-      image: 'https://images.pexels.com/photos/416320/pexels-photo-416320.jpeg',
-      title: 'Complete Hardware Solutions',
-      subtitle: 'Reliable • Innovative • Professional',
-      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
     },
     {
       image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg',
       title: 'Interior Design Excellence',
       subtitle: 'Modern • Elegant • Functional',
       description: 'Transform your space with our curated selection of interior design materials and fittings.'
+    },
+    {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%202.jpg',
+      title: 'Complete Hardware Solutions',
+      subtitle: 'Reliable • Innovative • Professional',
+      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
+    },
+    {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%203.jpg',
+      title: 'Complete Hardware Solutions',
+      subtitle: 'Superior Quality • Dependable • Professional',
+      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
+    },
+    {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%204.jpg',
+      title: 'Complete Hardware Solutions',
+      subtitle: 'Superior Quality • Dependable • Professional',
+      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
+    },
+    {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%205.jpg',
+      title: 'Premium Quality Timberyard',
+      subtitle: 'Sustainable • Durable • Beautiful',
+      description: 'Discover our extensive collection of premium timber and plywood for all your construction and design needs.'
     }
   ];
 
