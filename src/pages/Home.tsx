@@ -401,7 +401,7 @@ const Home = () => {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
               <div className="p-6 group hover:bg-yellow-50 rounded-xl transition-all duration-500 animate-fade-in-up hover:scale-105 hover:-rotate-1" style={{ animationDelay: '0.1s' }}>
-                <AnimatedCounter end={15} suffix="+" />
+                <AnimatedCounter end={10} suffix="+" />
                 <div className="text-gray-600 font-light">Years of Experience</div>
               </div>
               <div className="p-6 group hover:bg-yellow-50 rounded-xl transition-all duration-500 animate-fade-in-up hover:scale-105" style={{ animationDelay: '0.2s' }}>
@@ -409,7 +409,7 @@ const Home = () => {
                 <div className="text-gray-600 font-light">Satisfied Customers</div>
               </div>
               <div className="p-6 group hover:bg-yellow-50 rounded-xl transition-all duration-500 animate-fade-in-up hover:scale-105 hover:rotate-1" style={{ animationDelay: '0.3s' }}>
-                <AnimatedCounter end={500} suffix="+" />
+                <AnimatedCounter end={200} suffix="+" />
                 <div className="text-gray-600 font-light">Products Available</div>
               </div>
             </div>
