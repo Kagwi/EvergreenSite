@@ -11,38 +11,38 @@ const ProductCategory = () => {
       products: [
         {
           id: 1,
-          name: 'Premium Oak Timber',
-          image: 'https://images.pexels.com/photos/1268076/pexels-photo-1268076.jpeg',
+          name: 'Premium Hardwood Timber',
+          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Hero%203.jpg?raw=true',
           description: 'High-grade oak timber with beautiful grain patterns. Perfect for furniture making, flooring, and architectural millwork. Kiln-dried and ready for finishing.'
         },
         {
           id: 2,
-          name: 'Marine Grade Plywood',
-          image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg',
-          description: 'Superior quality marine-grade plywood with waterproof adhesive. Ideal for boat building, outdoor furniture, and wet area applications.'
+          name: 'Excellent Quality Doors',
+          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Premium%20Doors.jpg?raw=true',
+          description: 'Marine-grade plywood with waterproof adhesive, ideal for strong and durable doors.'
         },
         {
           id: 3,
           name: 'Mahogany Hardwood',
-          image: 'https://images.pexels.com/photos/162539/architecture-wood-house-floor-162539.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mahogany.png',
           description: 'Exotic mahogany hardwood with rich reddish-brown color and excellent workability. Perfect for luxury furniture and cabinetry.'
         },
         {
           id: 4,
           name: 'Pine Construction Lumber',
-          image: 'https://images.pexels.com/photos/1251175/pexels-photo-1251175.jpeg',
+          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Pine%20Lumber.png?raw=true',
           description: 'Structural grade pine lumber for framing, construction, and general building applications. Available in various dimensions.'
         },
         {
           id: 5,
           name: 'Birch Plywood Sheets',
-          image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Birch%20PLywood.png',
           description: 'High-quality birch plywood with smooth surface finish. Excellent for furniture making, cabinetry, and craft projects.'
         },
         {
           id: 6,
           name: 'Cedar Decking Boards',
-          image: 'https://images.pexels.com/photos/1268076/pexels-photo-1268076.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Cedar%20Decking%20Piles_remix_01k5mh9j82fhr9bytbm85dqwak%20(1).png',
           description: 'Natural cedar decking boards with natural weather resistance. Perfect for outdoor decks, patios, and garden structures.'
         }
       ]
