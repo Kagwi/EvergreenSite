@@ -102,21 +102,21 @@ const Home = () => {
 
   const featuredProducts = [
     {
-      name: 'Premium Oak Timber',
+      name: 'Premium Timber',
       category: 'Timber & Plywood',
-      image: 'https://images.pexels.com/photos/1268076/pexels-photo-1268076.jpeg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Premium%20Timber.jpg',
       description: 'High-quality oak timber perfect for furniture making and construction projects.'
     },
     {
-      name: 'Modern Cabinet Handles',
+      name: 'Range of Wood Finishes',
       category: 'Furniture Fittings',
-      image: 'https://images.pexels.com/photos/6585596/pexels-photo-6585596.jpeg',
-      description: 'Sleek and durable cabinet handles available in various finishes and styles.'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Range%20of%20Wood%20Finishes.jpg',
+      description: 'Sleek and durable wood finishes available in various finishes and styles.'
     },
     {
-      name: 'Premium Kitchen Sinks',
+      name: 'Quality Hardware Building Materials',
       category: 'Hardware',
-      image: 'https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Harware%20Building.jpg',
       description: 'Stainless steel kitchen sinks designed for durability and style.'
     },
     {
