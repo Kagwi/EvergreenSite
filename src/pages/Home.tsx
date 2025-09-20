@@ -90,7 +90,7 @@ const Home = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%204.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Superior Quality • Dependable • Professional',
-      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
+      description: 'Purchase plywood, MDF, and OSB, and many more.'
     },
     {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%205.jpg',
