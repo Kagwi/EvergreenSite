@@ -63,6 +63,18 @@ const Home = () => {
       description: 'Transform your space with our curated selection of interior design materials and fittings.'
     },
     {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hardware.jpg',
+      title: 'Complete Hardware Solutions',
+      subtitle: 'Reliable • Innovative • Professional',
+      description: 'From sinks, to faucets, padlocks,  screws, and bolts, hammers, saws, and wrenches.'
+    },
+    {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hardware%202.jpg',
+      title: 'Complete Hardware Solutions',
+      subtitle: 'Reliable • Innovative • Professional',
+      description: 'From locks, hinges, handles, paints'
+    },
+    {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%202.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Reliable • Innovative • Professional',
