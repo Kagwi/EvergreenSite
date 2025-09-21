@@ -54,26 +54,26 @@ const ProductCategory = () => {
         {
           id: 1,
           name: 'Soft Close Cabinet Hinges',
-          image: 'https://images.pexels.com/photos/6585596/pexels-photo-6585596.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hinges.png',
           description: 'Premium quality soft-close hinges with adjustable tension control. Self-closing mechanism ensures smooth and quiet operation.'
         },
         {
           id: 2,
-          name: 'Modern Cabinet Handles',
-          image: 'https://images.pexels.com/photos/6585597/pexels-photo-6585597.jpeg',
-          description: 'Contemporary stainless steel cabinet handles with brushed finish. Available in various lengths and styles to match any design.'
+          name: 'Living Room Interior Design',
+          image: 'https://images.pexels.com/photos/6585598/pexels-photo-6585598.jpeg',
+          description: 'Create a stylish and functional space with modern layouts, cozy furnishings, and soft finishes. Perfect for enhancing comfort while adding elegance to everyday living.'
         },
         {
           id: 3,
-          name: 'Drawer Slide Systems',
-          image: 'https://images.pexels.com/photos/6585598/pexels-photo-6585598.jpeg',
-          description: 'Heavy-duty drawer slides with full extension and soft-close feature. Suitable for kitchen cabinets and furniture applications.'
+          name: 'Bedroom Interior Design',
+          image: 'https://images.pexels.com/photos/6585597/pexels-photo-6585597.jpeg',
+          description: 'Transform your bedroom into a personal retreat with thoughtful design that balances rest and style. Layered lighting, natural textures, and calming palettes create an atmosphere where relaxation meets timeless elegance.'
         },
         {
           id: 4,
-          name: 'LED Under-Cabinet Lighting',
+          name: 'Elegant Lighting Solutions',
           image: 'https://images.pexels.com/photos/6585599/pexels-photo-6585599.jpeg',
-          description: 'Energy-efficient LED strip lighting for under-cabinet illumination. Dimmable with wireless control options.'
+          description: 'Illuminate your home with sophistication through timeless chandeliers, pendant lights, and statement fixtures. Designed to add warmth, depth, and a touch of grandeur, these lighting accents transform everyday spaces into extraordinary experiences.'
         },
         {
           id: 5,
