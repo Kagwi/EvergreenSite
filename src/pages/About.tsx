@@ -23,7 +23,7 @@ const About = () => {
               <h2 className="text-4xl font-bold text-gray-800 mb-6">Our Story</h2>
               <div className="space-y-6 text-gray-600 leading-relaxed">
                 <p>
-                  Founded in 2008, Evergreen Timberyard & Hardware began as a small family business with a simple mission: 
+                  Founded more than a decade ago, Evergreen Timberyard & Hardware began as a small family business with a simple mission: 
                   to provide the community with premium quality building materials and exceptional customer service. What started 
                   as a modest timber yard has grown into a comprehensive one-stop destination for all construction and interior design needs.
                 </p>
@@ -52,7 +52,7 @@ const About = () => {
       </section>
 
       {/* Values */}
-      <section className="py-16 bg-gray-50">
+      <section className="py-16 bg-gray-20">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-800 mb-4">Our Values</h2>
@@ -113,13 +113,13 @@ const About = () => {
               <div className="lg:col-span-1">
                 <img 
                   src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg" 
-                  alt="John Mitchell - Owner" 
+                  alt="Joyce wa Evergreen - Owner" 
                   className="rounded-xl shadow-xl w-full"
                 />
               </div>
               <div className="lg:col-span-2">
                 <h2 className="text-3xl font-bold text-gray-800 mb-6">Meet the Owner</h2>
-                <h3 className="text-2xl font-semibold text-green-700 mb-4">John Mitchell</h3>
+                <h3 className="text-2xl font-semibold text-green-700 mb-4">Joyce wa Evergreen</h3>
                 <p className="text-lg text-gray-600 mb-4 font-medium">Founder & CEO</p>
                 
                 <div className="space-y-4 text-gray-600 leading-relaxed">
@@ -128,12 +128,12 @@ const About = () => {
                     a business that would serve our community with integrity, quality, and genuine care for each customer's project."
                   </p>
                   <p>
-                    With over 25 years of experience in the timber and construction industry, John brings deep expertise 
+                    With over 10 years of experience in the timber and construction industry, Joyce brings deep expertise 
                     and passion to every aspect of the business. His background in sustainable forestry and construction 
                     management has shaped Evergreen's commitment to environmental responsibility and quality excellence.
                   </p>
                   <p>
-                    Under John's leadership, Evergreen has grown from a small local supplier to a regional leader, while 
+                    Under Joyce's leadership, Evergreen has grown from a small local supplier to a regional leader, while 
                     maintaining the personal touch and community focus that has always been our hallmark. His hands-on 
                     approach ensures that every customer receives expert advice and personalized service.
                   </p>
@@ -146,11 +146,11 @@ const About = () => {
 
                 <div className="mt-8 grid grid-cols-2 gap-4">
                   <div className="text-center p-4 bg-green-50 rounded-lg">
-                    <div className="text-2xl font-bold text-green-700">25+</div>
+                    <div className="text-2xl font-bold text-green-700">10+</div>
                     <div className="text-sm text-gray-600">Years Experience</div>
                   </div>
                   <div className="text-center p-4 bg-green-50 rounded-lg">
-                    <div className="text-2xl font-bold text-green-700">17+</div>
+                    <div className="text-2xl font-bold text-green-700">10+</div>
                     <div className="text-sm text-gray-600">Years Leading Evergreen</div>
                   </div>
                 </div>
@@ -172,11 +172,11 @@ const About = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="text-center">
-              <div className="text-4xl font-bold text-white mb-2">1500+</div>
+              <div className="text-4xl font-bold text-white mb-2">1000+</div>
               <div className="text-green-200">Happy Customers</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-white mb-2">500+</div>
+              <div className="text-4xl font-bold text-white mb-2">200+</div>
               <div className="text-green-200">Products Available</div>
             </div>
             <div className="text-center">
