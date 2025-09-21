@@ -12,13 +12,13 @@ const ProductCategory = () => {
         {
           id: 1,
           name: 'Premium Hardwood Timber',
-          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Hero%203.jpg?raw=true',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%203.jpg',
           description: 'High-grade oak timber with beautiful grain patterns. Perfect for furniture making, flooring, and architectural millwork. Kiln-dried and ready for finishing.'
         },
         {
           id: 2,
           name: 'Excellent Quality Doors',
-          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Premium%20Doors.jpg?raw=true',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Premium%20Doors.jpg',
           description: 'Marine-grade plywood with waterproof adhesive, ideal for strong and durable doors.'
         },
         {
@@ -30,7 +30,7 @@ const ProductCategory = () => {
         {
           id: 4,
           name: 'Pine Construction Lumber',
-          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Pine%20Lumber.png?raw=true',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Pine%20Lumber.png',
           description: 'Structural grade pine lumber for framing, construction, and general building applications. Available in various dimensions.'
         },
         {
@@ -78,14 +78,14 @@ const ProductCategory = () => {
         {
           id: 5,
           name: 'Glass Cabinet Doors',
-          image: 'https://images.pexels.com/photos/6585600/pexels-photo-6585600.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Glass%20Cabinet%20Doors.PNG',
           description: 'Tempered glass inserts for cabinet doors with aluminum frames. Available in clear, frosted, and decorative patterns.'
         },
         {
           id: 6,
-          name: 'Adjustable Shelf Systems',
-          image: 'https://images.pexels.com/photos/6585601/pexels-photo-6585601.jpeg',
-          description: 'Modular adjustable shelf systems with premium metal brackets. Perfect for closets, pantries, and storage solutions.'
+          name: 'Sophisticated Curtain Rods',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Metal%20Curtain%20Rods.png',
+          description: 'Elevate your windows with finely crafted curtain rods that blend style and function. With elegant finishes and durable design, they provide the perfect frame for your drapes while adding a refined touch to any room.'
         }
       ]
     },
@@ -96,37 +96,31 @@ const ProductCategory = () => {
         {
           id: 1,
           name: 'Stainless Steel Kitchen Sink',
-          image: 'https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Stainless%20Steel%20Sink.png',
           description: 'Double-bowl stainless steel sink with sound dampening and scratch-resistant finish. Includes waste disposal mounting options.'
         },
         {
           id: 2,
-          name: 'Designer Kitchen Faucets',
-          image: 'https://images.pexels.com/photos/2112648/pexels-photo-2112648.jpeg',
+          name: 'Kitchen Faucets',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Faucets%20Display_remix_01k5p6fv5se0s81pnwn6a2hyez.png',
           description: 'Premium kitchen faucets with pull-down spray head and ceramic disc cartridge. Available in chrome, brushed nickel, and matte black.'
         },
         {
           id: 3,
           name: 'Heavy-Duty Padlocks',
-          image: 'https://images.pexels.com/photos/442570/pexels-photo-442570.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Silver%20Padlock.png',
           description: 'Weather-resistant padlocks with hardened steel shackle. Perfect for gates, storage units, and security applications.'
         },
         {
           id: 4,
-          name: 'Curtain Rod Systems',
-          image: 'https://images.pexels.com/photos/6899379/pexels-photo-6899379.jpeg',
-          description: 'Adjustable curtain rod systems with decorative finials. Available in various materials and finishes to complement any decor.'
-        },
-        {
-          id: 5,
           name: 'Door Hardware Sets',
-          image: 'https://images.pexels.com/photos/277559/pexels-photo-277559.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Door%20Fixtures.jpg',
           description: 'Complete door hardware sets including hinges, handles, and lock mechanisms. Available in traditional and contemporary styles.'
         },
         {
-          id: 6,
+          id: 5,
           name: 'Bathroom Fixtures',
-          image: 'https://images.pexels.com/photos/1910472/pexels-photo-1910472.jpeg',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
           description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
         }
       ]
