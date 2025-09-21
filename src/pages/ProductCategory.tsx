@@ -123,6 +123,12 @@ const ProductCategory = () => {
           image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
           description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
         }
+        {
+          id: 6,
+          name: 'Hire our Reliable Metal Trappers',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/MetalTrappers.png',
+          description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
+        }
       ]
     }
   };
