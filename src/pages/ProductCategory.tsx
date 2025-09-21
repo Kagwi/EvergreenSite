@@ -126,7 +126,7 @@ const ProductCategory = () => {
         {
           id: 6,
           name: 'Hire our Reliable Metal Trappers',
-          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/MetalTrappers.png',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Stacked%20Metal%20Sheets.png',
           description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
         }
       ]
