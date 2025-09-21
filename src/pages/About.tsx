@@ -112,7 +112,7 @@ const About = () => {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
               <div className="lg:col-span-1">
                 <img 
-                  src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg" 
+                  src="" 
                   alt="Joyce wa Evergreen - Owner" 
                   className="rounded-xl shadow-xl w-full"
                 />
