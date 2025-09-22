@@ -109,6 +109,12 @@ const Home = () => {
       title: 'Premium Quality Timberyard',
       subtitle: 'Sustainable • Durable • Beautiful',
       description: 'Evergreen is one stop where you will get all your timber and construction materials, under one roof at affordable prices!'
+    },
+    {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
+      title: 'Quality Bathroom Fixtures',
+      subtitle: 'Durable •Elegant •Classy',
+      description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
     }
   ];
 
