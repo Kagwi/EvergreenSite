@@ -41,7 +41,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://images.pexels.com/photos/5691638/pexels-photo-5691638.jpeg" 
+                src="https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Team.PNG" 
                 alt="Timber yard" 
                 className="rounded-xl shadow-xl"
               />
