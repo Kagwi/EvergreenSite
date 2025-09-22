@@ -16,59 +16,59 @@ const Products = () => {
   const products = [
     {
       id: 1,
-      name: 'Premium Oak Timber',
+      name: 'Premium Fencing Posts and Poles',
       category: 'timber-plywood',
-      image: 'https://images.pexels.com/photos/1268076/pexels-photo-1268076.jpeg',
-      description: 'High-grade oak timber, perfect for fine furniture and architectural applications. Sustainably sourced.'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
+      description: 'Upgrade your property with our Premium Fencing Posts and Poles—built for strength, style, and long-lasting protection you can trust.'
     },
     {
       id: 2,
-      name: 'Marine Grade Plywood',
+      name: 'Marine Boards',
       category: 'timber-plywood',
-      image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg',
-      description: 'Water-resistant plywood suitable for marine and outdoor applications.'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Marine%20Grade%20Plywood.jpg',
+      description: 'Experience unmatched strength and water resistance with our Marine Boards, the perfect choice for heavy-duty construction, formwork, and long-lasting finishes.'
     },
     {
       id: 3,
-      name: 'Soft Close Hinges',
-      category: 'furniture-fittings',
-      image: 'https://images.pexels.com/photos/6585596/pexels-photo-6585596.jpeg',
-      description: 'Premium soft-close cabinet hinges with adjustable tension and smooth operation.'
+      name: 'Cypress Timber',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Cypress.png',
+      description: 'Choose Cypress Timber for its natural durability, resistance to decay, and timeless beauty-perfect for premium construction and outdoor projects'
     },
     {
       id: 4,
       name: 'Modern Cabinet Handles',
       category: 'furniture-fittings',
-      image: 'https://images.pexels.com/photos/6585597/pexels-photo-6585597.jpeg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hinges.png',
       description: 'Contemporary cabinet handles in brushed stainless steel finish.'
     },
     {
       id: 5,
       name: 'Stainless Steel Kitchen Sink',
       category: 'hardware',
-      image: 'https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Stainless%20Steel%20Sink.png',
       description: 'Double-bowl stainless steel sink with sound dampening technology.'
     },
     {
       id: 6,
-      name: 'Security Padlocks and Assortment of Door Locks',
+      name: 'Metal Trappers for Hire',
       category: 'hardware',
-      image: 'https://images.pexels.com/photos/442570/pexels-photo-442570.jpeg',
-      description: 'Heavy-duty weather-resistant padlocks and various catergories of doorlocks for maximum security.'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trapper%201_imgupscaler.ai_Upscaler_2K.jpg',
+      description: 'Ensure rock-solid stability for your multi-storey project with our high-strength metal trappers, engineered for safe, durable, and reliable house construction.'
     },
     {
       id: 7,
       name: 'Mahogany Hardwood',
       category: 'timber-plywood',
-      image: 'https://images.pexels.com/photos/1268076/pexels-photo-1268076.jpeg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Mahogany.jpg',
       description: 'Beautiful mahogany hardwood with rich grain patterns for premium applications.'
     },
     {
       id: 8,
-      name: 'LED Under-Cabinet Lighting',
-      category: 'furniture-fittings',
-      image: 'https://images.pexels.com/photos/6585598/pexels-photo-6585598.jpeg',
-      description: 'Energy-efficient LED strips for under-cabinet and accent lighting.'
+      name: 'Rafters',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Rafters.png',
+      description: 'Build with confidence using our durable timber rafters, designed to provide strong support and a lasting framework for any roofing project.'
     }
   ];
 
