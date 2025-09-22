@@ -66,7 +66,7 @@ const Home = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Samidoh%202_imgupscaler.ai_Upscaler_2K.jpg',
       title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Eco-Friendly • Elegant',
-      description: 'Discover our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
+      description: 'Explore our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
     },
     {
       image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg',
@@ -84,31 +84,31 @@ const Home = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hardware%202.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Reliable • Innovative • Professional',
-      description: 'From locks, hinges, handles, paints'
+      description: 'From locks, hinges, handles, and paints to nails, screws, bolts, plumbing fittings, roofing sheets, and electrical supplies.'
     },
     {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%202.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Reliable • Innovative • Professional',
-      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
+      description: 'From power drills to steel pipes, discover a full range of reliable hardware solutions to build, repair, and upgrade your home or business projects.'
     },
     {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%203.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Superior Quality • Dependable • Professional',
-      description: 'From sinks to padlocks, find everything you need for your home and business projects.'
+      description: 'Visit our timberyard in Juja Near JKUAT Gate A, and mastoo, 10 min drive from Juja town.'
     },
     {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%204.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Superior Quality • Dependable • Professional',
-      description: 'Purchase plywood, MDF, and OSB, and many more.'
+      description: 'We also deliver orders made online. Purchase plywood, MDF, and OSB, and many more...'
     },
     {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%205.jpg',
       title: 'Premium Quality Timberyard',
       subtitle: 'Sustainable • Durable • Beautiful',
-      description: 'Discover our extensive collection of premium timber and plywood for all your construction and design needs.'
+      description: 'Evergreen is one stop where you will get all your timber and construction materials, under one roof at affordable prices!'
     }
   ];
 
@@ -120,10 +120,22 @@ const Home = () => {
       description: 'High-quality oak timber perfect for furniture making and construction projects.'
     },
     {
+      name: 'Fencing Poles and Posts',
+      category: 'Timber & Plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
+      description: 'Get the perfect foundation for strong, long-lasting barriers with our Fencing Poles and Posts.'
+    },
+    {
       name: 'Range of Plywood Finishes',
       category: 'Furniture Fittings',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Range%20of%20Wood%20Finishes.jpg',
       description: 'Sleek and durable wood plywood finishes available in various styles.'
+    },
+    {
+      name: 'Metal Trappers for Hire',
+      category: 'Hardware',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trappers.PNG',
+      description: 'Reinforce your construction with our heavy-duty metal trappers.'
     },
     {
       name: 'Quality Hardware Building Materials',
@@ -142,18 +154,6 @@ const Home = () => {
       category: 'Hardware',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg',
       description: 'Secure and beautify your property with our durable fences.'
-    },
-    {
-      name: 'Fencing Poles and Posts',
-      category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
-      description: 'Get the perfect foundation for strong, long-lasting barriers with our Fencing Poles and Posts.'
-    },
-    {
-      name: 'Metal Trappers for Hire',
-      category: 'Hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trappers.PNG',
-      description: 'Reinforce your construction with our heavy-duty metal trappers.'
     }
   ];
 
@@ -322,7 +322,7 @@ const Home = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {featuredProducts.map((product, index) => (
               <div 
                 key={index} 
