@@ -41,7 +41,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Team.PNG" 
+                src="https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Team_imgupscaler.ai_Upscaler_2K.jpg" 
                 alt="Timber yard" 
                 className="rounded-xl shadow-xl"
               />
@@ -112,7 +112,7 @@ const About = () => {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
               <div className="lg:col-span-1">
                 <img 
-                  src="" 
+                  src="https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Boss_imgupscaler.ai_Upscaler_2K.jpg" 
                   alt="Joyce wa Evergreen - Owner" 
                   className="rounded-xl shadow-xl w-full"
                 />
