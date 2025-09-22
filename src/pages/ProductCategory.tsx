@@ -44,6 +44,24 @@ const ProductCategory = () => {
           name: 'Cedar Decking Boards',
           image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Cedar%20Decking%20Piles_remix_01k5mh9j82fhr9bytbm85dqwak%20(1).png',
           description: 'Natural cedar decking boards with natural weather resistance. Perfect for outdoor decks, patios, and garden structures.'
+        },
+        {
+          id: 7,
+          name: 'Gypsum & All other Varieties of Ceiling Boards',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Gypsum%20Ceiling%20Boards.jpg',
+          description: 'Discover a wide range of premium ceiling boards, from sleek gypsum panels to acoustic, PVC, flowered ceiling and all other decorative options.'
+        },
+        {
+          id: 8,
+          name: 'MDF and Plywood Varieties',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Plywood.PNG',
+          description: 'Explore a full selection of MDF and plywood options for furniture, cabinetry, and interior finishes.'
+        },
+        {
+          id: 9,
+          name: 'Timber Logs and Frames',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Timber%20Logs%20and%20Frames.jpg',
+          description: 'We provide superior quality timber logs and sturdy frames ideal for construction, carpentry, and interior applications.'
         }
       ]
     },
