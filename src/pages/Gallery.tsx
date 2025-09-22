@@ -23,7 +23,7 @@ const Gallery = () => {
     {
       id: 2,
       category: 'interior',
-      title: 'Modern Living Room Design',
+      title: 'Consultation and Access to Materials for Modern Living Room Design',
       description: 'Contemporary living room featuring our premium interior fittings and materials.',
       image: 'https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg'
     },
@@ -51,7 +51,7 @@ const Gallery = () => {
     {
       id: 6,
       category: 'interior',
-      title: 'Luxury Bathroom Renovation',
+      title: 'Consultation and Access to Materials for Luxury Bathroom Renovation',
       description: 'Complete bathroom renovation featuring premium fixtures and fittings.',
       image: 'https://images.pexels.com/photos/1910472/pexels-photo-1910472.jpeg'
     },
@@ -65,7 +65,7 @@ const Gallery = () => {
     {
       id: 8,
       category: 'interior',
-      title: 'Modern Office Space',
+      title: 'Consultation and Access to Materials for Modern Bedroom Spaces',
       description: 'Contemporary office design with custom furniture and premium fittings.',
       image: 'https://images.pexels.com/photos/1571450/pexels-photo-1571450.jpeg'
     }
