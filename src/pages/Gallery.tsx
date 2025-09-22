@@ -65,9 +65,9 @@ const Gallery = () => {
     {
       id: 8,
       category: 'interior',
-      title: 'Consultation and Access to Materials for Modern Bedroom Spaces',
+      title: 'Consultation and Access to Materials for Modern Office Spaces',
       description: 'Contemporary office design with custom furniture and premium fittings.',
-      image: 'https://images.pexels.com/photos/1571450/pexels-photo-1571450.jpeg'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Office.png'
     }
   ];
 
