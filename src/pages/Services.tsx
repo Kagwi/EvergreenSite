@@ -41,7 +41,7 @@ const Services = () => {
         'Safety Assured',
         'Precision Engineering'
       ],
-      image: ''
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trappers.PNG'
     },
     {
       icon: Wrench,
