@@ -116,26 +116,44 @@ const Home = () => {
     {
       name: 'Premium Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Premium%20Timber.jpg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/KIH_0036.jpg',
       description: 'High-quality oak timber perfect for furniture making and construction projects.'
     },
     {
-      name: 'Range of Wood Finishes',
+      name: 'Range of Plywood Finishes',
       category: 'Furniture Fittings',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Range%20of%20Wood%20Finishes.jpg',
-      description: 'Sleek and durable wood finishes available in various finishes and styles.'
+      description: 'Sleek and durable wood plywood finishes available in various styles.'
     },
     {
       name: 'Quality Hardware Building Materials',
       category: 'Hardware',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Harware%20Building.jpg',
-      description: 'Stainless steel kitchen sinks designed for durability and style.'
+      description: 'Discover our wide range of Quality Hardware Building Materials, including top-grade metals, fasteners, and essential construction supplies.'
     },
     {
       name: 'Engineered Plywood',
       category: 'Timber & Plywood',
       image: 'https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg',
       description: 'Versatile engineered plywood suitable for various construction applications.'
+    },
+    {
+      name: 'Fences',
+      category: 'Hardware',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg',
+      description: 'Secure and beautify your property with our durable fences.'
+    },
+    {
+      name: 'Fencing Poles and Posts',
+      category: 'Timber & Plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
+      description: 'Get the perfect foundation for strong, long-lasting barriers with our Fencing Poles and Posts.'
+    },
+    {
+      name: 'Metal Trappers for Hire',
+      category: 'Hardware',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trappers.PNG',
+      description: 'Reinforce your construction with our heavy-duty metal trappers.'
     }
   ];
 
