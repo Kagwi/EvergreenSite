@@ -37,9 +37,9 @@ const Gallery = () => {
     {
       id: 4,
       category: 'hardware',
-      title: 'Premium Kitchen Hardware',
-      description: 'Complete kitchen hardware installation including sinks, faucets, and cabinet hardware.',
-      image: 'https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg'
+      title: 'Evergreen Delivery Services',
+      description: 'Free Delivery within Nairobi and Kiambu, other deliveries done at a very affordable price',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Delivery%202_imgupscaler.ai_Upscaler_2K.jpg'
     },
     {
       id: 5,
@@ -58,9 +58,9 @@ const Gallery = () => {
     {
       id: 7,
       category: 'hardware',
-      title: 'Commercial Security Installation',
-      description: 'Professional security hardware installation for commercial property.',
-      image: 'https://images.pexels.com/photos/442570/pexels-photo-442570.jpeg'
+      title: 'All types of Fences Available',
+      description: 'We provide durable fencing solutions to match every need.',
+      image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg?raw=true'
     },
     {
       id: 8,
@@ -68,7 +68,21 @@ const Gallery = () => {
       title: 'Consultation and Access to Materials for Modern Office Spaces',
       description: 'Contemporary office design with custom furniture and premium fittings.',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Office.png'
-    }
+    },
+    {
+      id: 9,
+      category: 'hardware',
+      title: 'Metal Trappers for Hire',
+      description: 'Durable steel frameworks used in the construction of storey houses.',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trapper%201_imgupscaler.ai_Upscaler_2K.jpg'
+    },
+    {
+      id: 10,
+      category: 'hardware',
+      title: 'Cement Delivery Available',
+      description: 'Reliable and timely delivery of quality cement to your site. Ensuring convenience and efficiency for all your construction needs.',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Cement.jpg'
+    },
   ];
 
   const filteredItems = selectedCategory === 'all' 
