@@ -62,6 +62,18 @@ const ProductCategory = () => {
           name: 'Timber Logs and Frames',
           image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Timber%20Logs%20and%20Frames.jpg',
           description: 'We provide superior quality timber logs and sturdy frames ideal for construction, carpentry, and interior applications.'
+        },
+        {
+          id: 10,
+          name: 'Fencing Poles and Posts',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
+          description: 'Get the perfect foundation for strong, long-lasting barriers with our Fencing Poles and Posts.'
+        },
+        {
+          id: 11,
+          name: 'Range of Plywood Finishes',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Range%20of%20Wood%20Finishes.jpg',
+          description: 'Sleek and durable wood plywood finishes available in various styles.'
         }
       ]
     },
@@ -146,6 +158,18 @@ const ProductCategory = () => {
           name: 'Hire our Reliable Metal Trappers',
           image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Stacked%20Metal%20Sheets.png',
           description: 'Durable steel frameworks used in the construction of storey houses.'
+        },
+        {
+          id: 7,
+          name: 'All types of Fences Available',
+          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg?raw=true',
+          description: 'We provide durable fencing solutions to match every need.'  
+        },
+        {
+          id: 8,
+          name: 'Cement Delivery Available',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Cement.jpg',
+          description: 'Reliable and timely delivery of quality cement to your site. Ensuring convenience and efficiency for all your construction needs.'
         }
       ]
     }
