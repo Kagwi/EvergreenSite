@@ -160,7 +160,13 @@ const Home = () => {
       category: 'Hardware',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg',
       description: 'Secure and beautify your property with our durable fences.'
-    }
+    },
+    {
+      name: 'Bathroom Fixtures',
+      category: 'Hardware',    
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
+      description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
+        },
   ];
 
   useEffect(() => {
