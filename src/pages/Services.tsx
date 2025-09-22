@@ -15,7 +15,7 @@ const Services = () => {
         'Custom angles and profiles',
         'Quality assurance on every cut'
       ],
-      image: 'https://images.pexels.com/photos/5691638/pexels-photo-5691638.jpeg'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen_imgupscaler.ai_Upscaler_2K.jpg'
     },
     {
       icon: Truck,
@@ -28,7 +28,7 @@ const Services = () => {
         'Tracking and updates',
         'Flexible delivery options'
       ],
-      image: 'https://images.pexels.com/photos/906494/pexels-photo-906494.jpeg'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Delivery.png'
     },
     {
       icon: Wrench,
