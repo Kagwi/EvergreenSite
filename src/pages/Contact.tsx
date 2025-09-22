@@ -13,12 +13,25 @@ const Contact = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Handle form submission here
-    console.log('Form submitted:', formData);
-    alert('Thank you for your inquiry! We will get back to you within 24 hours.');
+
+    const recipient = "info@evergreentimber.com"; // <-- Change to your main email
+    const subject = encodeURIComponent(formData.subject || "Website Inquiry");
+    const body = encodeURIComponent(
+      `You have a new inquiry:\n\n` +
+      `Name: ${formData.name}\n` +
+      `Email: ${formData.email}\n` +
+      `Phone: ${formData.phone}\n` +
+      `Inquiry Type: ${formData.inquiryType}\n\n` +
+      `Message:\n${formData.message}`
+    );
+
+    // Open default mail client with prefilled details
+    window.location.href = `mailto:${recipient}?subject=${subject}&body=${body}`;
   };
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const handleChange = (
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>
+  ) => {
     setFormData({
       ...formData,
       [e.target.name]: e.target.value
@@ -234,14 +247,16 @@ const Contact = () => {
             </p>
           </div>
           
-          <div className="bg-gray-200 rounded-xl overflow-hidden shadow-lg">
-            <div className="h-96 flex items-center justify-center">
-              <div className="text-center">
-                <MapPin className="w-16 h-16 text-gray-400 mx-auto mb-4" />
-                <p className="text-gray-600 text-lg font-medium">Interactive Map Coming Soon</p>
-                <p className="text-gray-500">Juja Gate A & Juja Mastore, Kiambu County, Kenya</p>
-              </div>
-            </div>
+          <div className="bg-gray-200 rounded-xl overflow-hidden shadow-lg h-96">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.855889967099!2d37.01590877496406!3d-1.106623235187542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f39f13cfef8d5%3A0x57d390c1cce0b9f7!2sJuja%20City%20Mall!5e0!3m2!1sen!2ske!4v1695381340672!5m2!1sen!2ske"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
         </div>
       </section>
