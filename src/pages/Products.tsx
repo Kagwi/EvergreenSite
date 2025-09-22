@@ -51,10 +51,10 @@ const Products = () => {
     },
     {
       id: 6,
-      name: 'Security Padlocks',
+      name: 'Security Padlocks and Assortment of Door Locks',
       category: 'hardware',
       image: 'https://images.pexels.com/photos/442570/pexels-photo-442570.jpeg',
-      description: 'Heavy-duty weather-resistant padlocks for maximum security.'
+      description: 'Heavy-duty weather-resistant padlocks and various catergories of doorlocks for maximum security.'
     },
     {
       id: 7,
