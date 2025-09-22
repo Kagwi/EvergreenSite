@@ -33,7 +33,7 @@ const FAQ = () => {
       id: 3,
       category: 'orders',
       question: 'What is your delivery policy?',
-      answer: 'We offer delivery services throughout the region. Delivery fees are calculated based on distance and order size. For large orders, we may offer free delivery within certain areas. We schedule deliveries Monday through Saturday, and our team takes special care to handle materials properly during transport.'
+      answer: 'We offer delivery services throughout the region. Delivery fees are calculated based on distance and order size but it is free within Nairobi and Kiambu. For large orders, we may offer free delivery within certain areas outside the free delivery scope. We schedule deliveries Monday through Saturday, and our team takes special care to handle materials properly during transport.'
     },
     {
       id: 4,
@@ -57,13 +57,13 @@ const FAQ = () => {
       id: 7,
       category: 'services',
       question: 'Do you provide interior design consultation?',
-      answer: 'Yes, we offer professional interior design consultation services. Our experienced team can help with material selection, space planning, and design coordination. We work with both residential and commercial clients to create functional and beautiful spaces using our premium materials and fittings.'
+      answer: 'Yes, we offer professional interior design consultation services. Our experienced team can help with material selection, space planning, and design coordination. We work with both residential and commercial clients to create functional and beautiful spaces using our premium materials and fittings.',
     },
     {
       id: 8,
       category: 'orders',
       question: 'How long does it take to process custom orders?',
-      answer: 'Processing time for custom orders varies depending on the complexity and availability of materials. Standard custom cutting services are typically completed within 1-3 business days. More complex projects or special orders may take 1-2 weeks. We provide estimated completion times when you place your order.'
+      answer: 'Processing time for custom orders varies depending on the complexity and availability of materials. Standard custom cutting services are typically completed within 24hrs after an order is made. More complex projects or special orders may take a week. We provide estimated completion times when you place your order.'
     },
     {
       id: 9,
@@ -81,7 +81,7 @@ const FAQ = () => {
       id: 11,
       category: 'products',
       question: 'Are your timber products sustainably sourced?',
-      answer: 'Absolutely. Environmental responsibility is a core value at Evergreen. We source our timber from certified sustainable forestry operations and work with suppliers who share our commitment to environmental stewardship. Many of our products carry FSC (Forest Stewardship Council) certification.'
+      answer: 'Absolutely. Environmental responsibility is a core value at Evergreen. We source our timber from certified sustainable forestry operations and work with suppliers who share our commitment to environmental stewardship.'
     },
     {
       id: 12,
