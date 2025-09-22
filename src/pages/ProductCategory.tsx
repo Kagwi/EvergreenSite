@@ -107,9 +107,9 @@ const ProductCategory = () => {
         },
         {
           id: 3,
-          name: 'Heavy-Duty Padlocks',
+          name: 'Heavy-Duty Door Locks & Padlocks',
           image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Silver%20Padlock.png',
-          description: 'Weather-resistant padlocks with hardened steel shackle. Perfect for gates, storage units, and security applications.'
+          description: 'Explore our durable door locks and padlocks. Perfect for gates, storage units, and security applications.'
         },
         {
           id: 4,
@@ -127,7 +127,7 @@ const ProductCategory = () => {
           id: 6,
           name: 'Hire our Reliable Metal Trappers',
           image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Stacked%20Metal%20Sheets.png',
-          description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
+          description: 'Durable steel frameworks used in the construction of storey houses.'
         }
       ]
     }
