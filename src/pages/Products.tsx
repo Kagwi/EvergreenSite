@@ -37,38 +37,38 @@ const Products = () => {
     },
     {
       id: 4,
-      name: 'Modern Cabinet Handles',
-      category: 'furniture-fittings',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hinges.png',
-      description: 'Contemporary cabinet handles in brushed stainless steel finish.'
-    },
-    {
-      id: 5,
-      name: 'Stainless Steel Kitchen Sink',
-      category: 'hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Stainless%20Steel%20Sink.png',
-      description: 'Double-bowl stainless steel sink with sound dampening technology.'
-    },
-    {
-      id: 6,
       name: 'Metal Trappers for Hire',
       category: 'hardware',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trapper%201_imgupscaler.ai_Upscaler_2K.jpg',
       description: 'Ensure rock-solid stability for your multi-storey project with our high-strength metal trappers, engineered for safe, durable, and reliable house construction.'
     },
     {
-      id: 7,
+      id: 5,
       name: 'Mahogany Hardwood',
       category: 'timber-plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Mahogany.jpg',
       description: 'Beautiful mahogany hardwood with rich grain patterns for premium applications.'
     },
     {
-      id: 8,
+      id: 6,
       name: 'Rafters',
       category: 'timber-plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Rafters.png',
       description: 'Build with confidence using our durable timber rafters, designed to provide strong support and a lasting framework for any roofing project.'
+    },
+    {
+      id: 7,
+      name: 'Modern Cabinet Handles',
+      category: 'furniture-fittings',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hinges.png',
+      description: 'Contemporary cabinet handles in brushed stainless steel finish.'
+    },
+    {
+      id: 8,
+      name: 'Stainless Steel Kitchen Sink',
+      category: 'hardware',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Stainless%20Steel%20Sink.png',
+      description: 'Double-bowl stainless steel sink with sound dampening technology.'
     }
   ];
 
