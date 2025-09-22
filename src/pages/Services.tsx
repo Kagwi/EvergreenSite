@@ -31,6 +31,19 @@ const Services = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Delivery.png'
     },
     {
+      icon: Checkmark,
+      title: 'Hire Affordable and Quality Metal Trappers',
+      description: '“Hire Affordable, High-Quality Metal Trappers—engineered for strength, safety, and durability in every building project.',
+      features: [
+        'High Load-Bearing Capacity',
+        'Durable Construction',
+        'Corrosion Resistant',
+        'Safety Assured',
+        'Precision Engineering'
+      ],
+      image: ''
+    },
+    {
       icon: Wrench,
       title: 'Interior Fittings Consultation',
       description: 'Expert advice and consultation for interior fittings and design material selection.',
