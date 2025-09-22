@@ -180,7 +180,7 @@ const About = () => {
               <div className="text-green-200">Products Available</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-white mb-2">50+</div>
+              <div className="text-4xl font-bold text-white mb-2">20+</div>
               <div className="text-green-200">Timber Species</div>
             </div>
             <div className="text-center">
