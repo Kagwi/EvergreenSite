@@ -51,14 +51,26 @@ const Home = () => {
   
   const heroSlides = [
     {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Samidoh%20Hero%20Section_imgupscaler.ai_Upscaler_2K.jpg',
+      title: 'Premium Quality Timberyard & Hardware',
+      subtitle: 'Sustainable • Eco-Friendly • Elegant',
+      description: 'Discover our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
+    },
+    {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%201.jpg',
-      title: 'Premium Quality Timberyard',
+      title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Durable • Beautiful',
       description: 'Discover our extensive collection of premium timber and plywood for all your construction and design needs.'
     },
     {
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Samidoh%202_imgupscaler.ai_Upscaler_2K.jpg',
+      title: 'Premium Quality Timberyard & Hardware',
+      subtitle: 'Sustainable • Eco-Friendly • Elegant',
+      description: 'Discover our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
+    },
+    {
       image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg',
-      title: 'Interior Design Excellence',
+      title: 'Interior Design Excellence Consultancy and Material Procurement',
       subtitle: 'Modern • Elegant • Functional',
       description: 'Transform your space with our curated selection of interior design materials and fittings.'
     },
