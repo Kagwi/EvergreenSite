@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Ruler, Truck, Wrench, Clock, CheckCircle, ArrowRight, Checkmark } from 'lucide-react';
+import { Ruler, Truck, Wrench, Clock, CheckCircle, ArrowRight } from 'lucide-react';
 
 const Services = () => {
   const services = [
@@ -31,7 +31,7 @@ const Services = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Delivery.png'
     },
     {
-      icon: Checkmark,
+      icon: Wrench,
       title: 'Hire Affordable and Quality Metal Trappers',
       description: '“Hire Affordable, High-Quality Metal Trappers—engineered for strength, safety, and durability in every building project.',
       features: [
