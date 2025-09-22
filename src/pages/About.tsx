@@ -124,7 +124,7 @@ const About = () => {
                 
                 <div className="space-y-4 text-gray-600 leading-relaxed">
                   <p>
-                    "When I started Evergreen Timberyard & Hardware seventeen years ago, I had a simple vision: to create 
+                    "When I started Evergreen Timberyard & Hardware more than a decade ago, I had a simple vision: to create 
                     a business that would serve our community with integrity, quality, and genuine care for each customer's project."
                   </p>
                   <p>
