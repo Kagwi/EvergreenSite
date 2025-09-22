@@ -16,9 +16,9 @@ const Gallery = () => {
     {
       id: 1,
       category: 'timber',
-      title: 'Custom Oak Kitchen Cabinets',
+      title: 'Ideal Timber for Custom-Designed Kitchen Cabinets',
       description: 'Beautiful custom-built kitchen cabinets made from premium oak timber.',
-      image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Kitchen%20Cabinets_imgupscaler.ai_Upscaler_2K.jpg'
     },
     {
       id: 2,
@@ -30,9 +30,9 @@ const Gallery = () => {
     {
       id: 3,
       category: 'timber',
-      title: 'Hardwood Flooring Installation',
+      title: 'Ideal Timber for Hardwood Flooring Installations',
       description: 'Elegant mahogany hardwood flooring installation in a residential home.',
-      image: 'https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Hardwood%20Flooring_imgupscaler.ai_Upscaler_2K.jpg'
     },
     {
       id: 4,
@@ -46,7 +46,7 @@ const Gallery = () => {
       category: 'timber',
       title: 'Cedar Outdoor Decking',
       description: 'Weather-resistant cedar decking for outdoor entertainment area.',
-      image: 'https://images.pexels.com/photos/1571461/pexels-photo-1571461.jpeg'
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Outdoor%20Decking_imgupscaler.ai_Upscaler_2K.jpg'
     },
     {
       id: 6,
@@ -68,13 +68,6 @@ const Gallery = () => {
       title: 'Modern Office Space',
       description: 'Contemporary office design with custom furniture and premium fittings.',
       image: 'https://images.pexels.com/photos/1571450/pexels-photo-1571450.jpeg'
-    },
-    {
-      id: 9,
-      category: 'timber',
-      title: 'Custom Furniture Pieces',
-      description: 'Handcrafted furniture pieces made from our premium timber selection.',
-      image: 'https://images.pexels.com/photos/1268076/pexels-photo-1268076.jpeg'
     }
   ];
 
