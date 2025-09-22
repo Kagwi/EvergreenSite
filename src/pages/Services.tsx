@@ -31,7 +31,7 @@ const Services = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Delivery.png'
     },
     {
-      icon: Checkmark,
+      icon: Metal,
       title: 'Hire Affordable and Quality Metal Trappers',
       description: '“Hire Affordable, High-Quality Metal Trappers—engineered for strength, safety, and durability in every building project.',
       features: [
