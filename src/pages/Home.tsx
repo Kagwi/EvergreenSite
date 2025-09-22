@@ -60,7 +60,7 @@ const Home = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%201.jpg',
       title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Durable • Beautiful',
-      description: 'Discover our extensive collection of premium timber and plywood for all your construction and design needs.'
+      description: 'Order our extensive collection of premium timber and plywood for all your construction and design needs.'
     },
     {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Samidoh%202_imgupscaler.ai_Upscaler_2K.jpg',
