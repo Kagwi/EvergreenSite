@@ -180,16 +180,16 @@ const Home = () => {
       description: 'High-quality pine timber perfect for furniture making and construction projects.'
     },
     {
-      name: 'Premium Mvule Timber',
+      name: 'Mvule Decking',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mvule%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
-      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+      description: 'High-quality mvule timber perfect for floorsand other outdoor projects.'
     },
     {
       name: 'Pine Decking',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Pine%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
-      description: 'High-quality pine timber perfect for flooring projects.'
+      description: 'High-quality pine timber perfect for floors and other outdoor projects.'
     },
     {
       name: 'Premium Mvule Timber',
