@@ -123,7 +123,7 @@ const Home = () => {
       name: 'Premium Timber',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/KIH_0036.jpg',
-      description: 'High-quality oak timber perfect for furniture making and construction projects.'
+      description: 'High-quality varieties of timber perfect for all your needs from furniture making, to flooring, and construction projects.'
     },
     {
       name: 'Premium Bluegum Timber',
