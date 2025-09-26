@@ -126,6 +126,12 @@ const Home = () => {
       description: 'High-quality oak timber perfect for furniture making and construction projects.'
     },
     {
+      name: 'Premium Bluegum Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality bluegum timber perfect for furniture making and construction projects.'
+    },
+    {
       name: 'Fencing Poles and Posts',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
@@ -208,6 +214,30 @@ const Home = () => {
       category: 'Timber & Plywood',
       image: '',
       description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+    },
+    {
+      name: 'Premium Bluegum Decking',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality bluegum decking perfect for beautiful and elegant floors.'
+    },
+     {
+      name: 'Premium Mahogany Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality mahogany timber perfect for furniture making and construction projects.'
+    },
+     {
+      name: 'Premium Cypress Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality cypress timber perfect for furniture making and construction projects.'
+    },
+     {
+      name: 'Rectangular Fencing Poles',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'Get the perfect foundation for strong, long-lasting barriers with our rectangular Fencing Poles and Posts'
     },
   ];
 
