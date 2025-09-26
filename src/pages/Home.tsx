@@ -189,7 +189,7 @@ const Home = () => {
       name: 'Pine Decking',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Pine%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
-      description: 'High-quality pine timber perfect for floors and other outdoor projects.'
+      description: 'High-quality pine timber perfect for floors and other outdoor projects. Make your floors elegant with pine decking.'
     },
     {
       name: 'Premium Mvule Timber',
@@ -201,7 +201,7 @@ const Home = () => {
       name: 'Cypress Frames',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Frames%20Cypress%20Evergreen.PNG',
-      description: 'High-quality cypress frames perfect for door frames.'
+      description: 'High-quality cypress frames perfect for door frames. Make work easier by order frames that have already been assembled'
     },
     {
       name: 'Premium Camphor Timber',
@@ -210,34 +210,34 @@ const Home = () => {
       description: 'High-quality mvule timber perfect for furniture making and construction projects.'
     },
     {
-      name: 'Premium Camphor Laurel Timber',
-      category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Camphor%20Laurel%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
-      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
-    },
-    {
       name: 'Premium Bluegum Decking',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Bluegum%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality bluegum decking perfect for beautiful and elegant floors.'
     },
-     {
+    {
       name: 'Premium Mahogany Timber',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mahogany%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality mahogany timber perfect for furniture making and construction projects.'
     },
-     {
+    {
       name: 'Premium Cypress Timber',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Cypress%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality cypress timber perfect for furniture making and construction projects.'
     },
-     {
+    {
+      name: 'Camphor Laurel',
+      category: 'Timber & Plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Camphor%20Laurel%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+    },
+    {
       name: 'Rectangular Fencing Poles',
       category: 'Timber & Plywood',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Fencing%20Poles%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
-      description: 'Get the perfect foundation for strong, long-lasting barriers with our rectangular Fencing Poles and Posts'
+      description: 'Get the perfect foundation for strong, long-lasting barriers with our fencing poles and posts'
     },
   ];
 
