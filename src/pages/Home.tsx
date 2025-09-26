@@ -200,7 +200,7 @@ const Home = () => {
     {
       name: 'Cypress Frames',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Cypress%20Frames%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Frames%20Cypress%20Evergreen.PNG',
       description: 'High-quality cypress frames perfect for door frames.'
     },
     {
