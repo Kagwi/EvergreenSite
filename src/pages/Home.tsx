@@ -166,7 +166,49 @@ const Home = () => {
       category: 'Hardware',    
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
       description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
-        },
+    },
+    {
+      name: 'Premium Pine Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality pine timber perfect for furniture making and construction projects.'
+    },
+    {
+      name: 'Premium Mvule Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+    },
+    {
+      name: 'Pine Decking',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality pine timber perfect for flooring projects.'
+    },
+    {
+      name: 'Premium Mvule Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+    },
+    {
+      name: 'Cypress Frames',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality cypress frames perfect for door frames.'
+    },
+    {
+      name: 'Premium Camphor Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+    },
+    {
+      name: 'Premium Camphor Laurel Timber',
+      category: 'Timber & Plywood',
+      image: '',
+      description: 'High-quality mvule timber perfect for furniture making and construction projects.'
+    },
   ];
 
   useEffect(() => {
