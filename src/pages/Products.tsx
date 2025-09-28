@@ -69,6 +69,83 @@ const Products = () => {
       category: 'hardware',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Stainless%20Steel%20Sink.png',
       description: 'Double-bowl stainless steel sink with sound dampening technology.'
+    },
+    {
+      id: 9,
+      name: 'Premium Hardwood Timber',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%203.jpg',
+      description: 'High-grade oak timber with beautiful grain patterns. Perfect for furniture making, flooring, and architectural millwork. Kiln-dried and ready for finishing.'
+    },
+    {
+      id: 10,
+      name: 'Excellent Quality Doors',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Premium%20Doors.jpg',
+      description: 'Marine-grade plywood with waterproof adhesive, ideal for strong and durable doors.'
+    },
+    {
+      id: 11,
+      name: 'Mahogany Hardwood',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mahogany.png',
+      description: 'Exotic mahogany hardwood with rich reddish-brown color and excellent workability. Perfect for luxury furniture and cabinetry.'
+    },
+    {
+      id: 12,
+      name: 'Pine Construction Lumber',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Pine%20Lumber.png',
+      description: 'Structural grade pine lumber for framing, construction, and general building applications. Available in various dimensions.'
+    },
+    {
+      id: 13,
+      name: 'Birch Plywood Sheets',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Birch%20PLywood.png',
+      description: 'High-quality birch plywood with smooth surface finish. Excellent for furniture making, cabinetry, and craft projects.'
+    },
+    {
+      id: 14,
+      name: 'Cedar Decking Boards',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Cedar%20Decking%20Piles_remix_01k5mh9j82fhr9bytbm85dqwak%20(1).png',
+      description: 'Natural cedar decking boards with natural weather resistance. Perfect for outdoor decks, patios, and garden structures.'
+    },
+    {
+      id: 15,
+      name: 'Gypsum & All other Varieties of Ceiling Boards',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Gypsum%20Ceiling%20Boards.jpg',
+      description: 'Discover a wide range of premium ceiling boards, from sleek gypsum panels to acoustic, PVC, flowered ceiling and all other decorative options.'
+    },
+    {
+      id: 16,
+      name: 'MDF and Plywood Varieties',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Plywood.PNG',
+      description: 'Explore a full selection of MDF and plywood options for furniture, cabinetry, and interior finishes.'
+    },
+    {
+      id: 17,
+      name: 'Timber Logs and Frames',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Timber%20Logs%20and%20Frames.jpg',
+      description: 'We provide superior quality timber logs and sturdy frames ideal for construction, carpentry, and interior applications.'
+    },
+    {
+      id: 18,
+      name: 'Fencing Poles and Posts',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
+      description: 'Get the perfect foundation for strong, long-lasting barriers with our Fencing Poles and Posts.'
+    },
+    {
+      id: 19,
+      name: 'Range of Plywood Finishes',
+      category: 'timber-plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Range%20of%20Wood%20Finishes.jpg',
+      description: 'Sleek and durable wood plywood finishes available in various styles.'
     }
   ];
 
