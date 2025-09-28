@@ -149,46 +149,39 @@ const Products = () => {
     },
     {
       id: 20,
-      name: 'Soft Close Cabinet Hinges',
-      category: 'hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hinges.png',
-      description: 'Premium quality soft-close hinges with adjustable tension control. Self-closing mechanism ensures smooth and quiet operation.'
-     },
-     {
-      id: 21,
       name: 'Living Room Interior Design',
-      category: 'hardware',
+      category: 'Furniture Fittings & Interior Design Materials',
       image: 'https://images.pexels.com/photos/6585598/pexels-photo-6585598.jpeg',
       description: 'Create a stylish and functional space with modern layouts, cozy furnishings, and soft finishes. Perfect for enhancing comfort while adding elegance to everyday living.'
-      },
-      {
-      id: 22,
+    },
+    {
+      id: 21,
       name: 'Bedroom Interior Design',
-      category: 'hardware',
+      category: 'Furniture Fittings & Interior Design Materials',
       image: 'https://images.pexels.com/photos/6585597/pexels-photo-6585597.jpeg',
       description: 'Transform your bedroom into a personal retreat with thoughtful design that balances rest and style. Layered lighting, natural textures, and calming palettes create an atmosphere where relaxation meets timeless elegance.'
-      },
-      {
-      id: 23,
+    },
+    {
+      id: 22,
       name: 'Elegant Lighting Solutions',
-      category: 'hardware',  
+      category: 'Furniture Fittings & Interior Design Materials',  
       image: 'https://images.pexels.com/photos/6585599/pexels-photo-6585599.jpeg',
       description: 'Illuminate your home with sophistication through timeless chandeliers, pendant lights, and statement fixtures. Designed to add warmth, depth, and a touch of grandeur, these lighting accents transform everyday spaces into extraordinary experiences.'
-      },
-      {
-      id: 24,
+    },
+    {
+      id: 23,
       name: 'Glass Cabinet Doors',
-      category: 'hardware',  
+      category: 'Furniture Fittings & Interior Design Materials',  
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Glass%20Cabinet%20Doors.PNG',
       description: 'Tempered glass inserts for cabinet doors with aluminum frames. Available in clear, frosted, and decorative patterns.'
-      },
-      {
-      id: 25,
+    },
+    {
+      id: 24,
       name: 'Sophisticated Curtain Rods',
-      category: 'hardware',
+      category: 'Furniture Fittings & Interior Design Materials',
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Metal%20Curtain%20Rods.png',
       description: 'Elevate your windows with finely crafted curtain rods that blend style and function. With elegant finishes and durable design, they provide the perfect frame for your drapes while adding a refined touch to any room.'
-      }
+    },
   ];
 
   const filteredProducts = products.filter(product => {
