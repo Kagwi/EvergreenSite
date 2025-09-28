@@ -182,6 +182,56 @@ const Products = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Metal%20Curtain%20Rods.png',
       description: 'Elevate your windows with finely crafted curtain rods that blend style and function. With elegant finishes and durable design, they provide the perfect frame for your drapes while adding a refined touch to any room.'
     },
+    /////
+    {
+          id: 1,
+          name: 'Stainless Steel Kitchen Sink',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Stainless%20Steel%20Sink.png',
+          description: 'Double-bowl stainless steel sink with sound dampening and scratch-resistant finish. Includes waste disposal mounting options.'
+        },
+        {
+          id: 2,
+          name: 'Kitchen Faucets',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Faucets%20Display_remix_01k5p6fv5se0s81pnwn6a2hyez.png',
+          description: 'Premium kitchen faucets with pull-down spray head and ceramic disc cartridge. Available in chrome, brushed nickel, and matte black.'
+        },
+        {
+          id: 3,
+          name: 'Heavy-Duty Door Locks & Padlocks',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Silver%20Padlock.png',
+          description: 'Explore our durable door locks and padlocks. Perfect for gates, storage units, and security applications.'
+        },
+        {
+          id: 4,
+          name: 'Door Hardware Sets',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Door%20Fixtures.jpg',
+          description: 'Complete door hardware sets including hinges, handles, and lock mechanisms. Available in traditional and contemporary styles.'
+        },
+        {
+          id: 5,
+          name: 'Bathroom Fixtures',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
+          description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
+        },
+        {
+          id: 6,
+          name: 'Hire our Reliable Metal Trappers',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Stacked%20Metal%20Sheets.png',
+          description: 'Durable steel frameworks used in the construction of storey houses.'
+        },
+        {
+          id: 7,
+          name: 'All types of Fences Available',
+          image: 'https://github.com/Kagwi/EvergreenSite/blob/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg?raw=true',
+          description: 'We provide durable fencing solutions to match every need.'  
+        },
+        {
+          id: 8,
+          name: 'Cement Delivery Available',
+          image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Cement.jpg',
+          description: 'Reliable and timely delivery of quality cement to your site. Ensuring convenience and efficiency for all your construction needs.'
+        }
+    
   ];
 
   const filteredProducts = products.filter(product => {
