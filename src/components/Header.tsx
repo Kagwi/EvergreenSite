@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, Menu, X, ChevronDown } from 'lucide-react';
+import { Menu, X, ChevronDown } from 'lucide-react';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -122,17 +122,8 @@ const Header = () => {
             ))}
           </nav>
 
-          {/* Search and Mobile Menu Toggle */}
+          {/* Mobile Menu Toggle */}
           <div className="flex items-center space-x-4">
-            <div className="relative hidden lg:block">
-              <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
-              <input
-                type="text"
-                placeholder="Search products..."
-                className="pl-10 pr-4 py-2 rounded-full border border-gray-200 focus:border-green-500 focus:ring-2 focus:ring-green-200 focus:outline-none transition-all"
-              />
-            </div>
-
             <button
               className="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
