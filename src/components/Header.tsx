@@ -136,7 +136,7 @@ const Header = () => {
 
         {/* Mobile Menu */}
         {isMenuOpen && (    
-              {['Home', 'Products', 'About', 'Services', 'Gallery', 'FAQ', 'Contact'].map((item) => (
+              {['Home', 'Products', 'About', 'Services', 'Gallery', 'FAQ', 'Contact'].map((item)} => (
                 <Link
                   key={item}
                   to={item === 'Home' ? '/' : `/${item.toLowerCase()}`}
