@@ -128,11 +128,11 @@ const Footer: React.FC = () => {
               </a>
               <a
                 href="mailto:evergreentimberyardandhardware@gmail.com"
-                className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
+                className="flex items-start space-x-3 hover:text-yellow-400 transition-colors group"
               >
-                <Mail className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
-                <span className="text-gray-300 group-hover:text-yellow-400">
-                  evergreentimberyardandhardware@gmail.com
+                <Mail className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300 mt-1" />
+                <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
+                evergreentimberyardandhardware@gmail.com
                 </span>
               </a>
               <div className="flex items-start space-x-3">
