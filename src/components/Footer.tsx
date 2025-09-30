@@ -182,7 +182,7 @@ const Footer = () => {
       {/* Full-width vibrant green fade effect (center green, fading to transparent at edges) */}
       <div className="relative z-10">
         <div className="w-full mt-6">
-          <div className="h-3 w-full bg-gradient-to-r from-transparent via-green-400 to-transparent opacity-95"></div>
+          <div className="h-3 w-full bg-gradient-to-r from-transparent via-green-400 to-transparent opacity-70"></div>
         </div>
       </div>
     </footer>
