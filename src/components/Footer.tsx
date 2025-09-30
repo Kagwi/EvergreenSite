@@ -117,14 +117,18 @@ const Footer: React.FC = () => {
                 className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
               >
                 <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
-                <span className="text-gray-300 group-hover:text-yellow-400">0711 852 596</span>
+                <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
+                  0711 852 596
+                </span>
               </a>
               <a
                 href="tel:0725767789"
                 className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
               >
                 <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
-                <span className="text-gray-300 group-hover:text-yellow-400">0725 767 789</span>
+                <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
+                  0725 767 789
+                </span>
               </a>
               <a
                 href="mailto:evergreentimberyardandhardware@gmail.com"
@@ -132,19 +136,19 @@ const Footer: React.FC = () => {
               >
                 <Mail className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300 mt-1" />
                 <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
-                evergreentimberyardandhardware@gmail.com
+                  evergreentimberyardandhardware@gmail.com
                 </span>
               </a>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-yellow-400 mt-1" />
-                <span className="text-gray-300">
+                <span className="block text-gray-300">
                   Juja Gate A, Kiambu County<br />
                   Juja Mastore, Kiambu County
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="w-5 h-5 text-yellow-400" />
-                <span className="text-gray-300">
+                <span className="block text-gray-300">
                   Mon-Sat: 7AM-6PM<br />
                   Sunday: Closed
                 </span>
