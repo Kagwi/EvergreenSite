@@ -52,8 +52,7 @@ const Footer: React.FC = () => {
                 rel="noopener noreferrer"
               >
                 <Instagram className="w-5 h-5 text-gray-400 hover:text-yellow-400 cursor-pointer transition-all duration-300 hover:scale-125" />
-              </a>
-              <Twitter className="w-5 h-5 text-gray-400 hover:text-yellow-400 cursor-pointer transition-all duration-300 hover:scale-125" />
+              </a>  
             </div>
           </div>
 
