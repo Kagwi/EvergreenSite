@@ -7,7 +7,7 @@ const Footer = () => {
     <footer
       className="relative text-white"
       style={{
-        backgroundImage: `url('/footer-bg.jpg')`, // update path to your image
+        backgroundImage: "url('https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Samidoh%202_imgupscaler.ai_Upscaler_2K.jpg')", // update path to your image
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
