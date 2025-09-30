@@ -239,6 +239,24 @@ const Home = () => {
       image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Fencing%20Poles%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'Get the perfect foundation for strong, long-lasting barriers with our fencing poles and posts'
     },
+    {
+      name: 'Rafters',
+      category: 'Timber & Plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Rafters.png',
+      description: 'Build with confidence using our durable timber rafters, designed to provide strong support and a lasting framework for any roofing project.'
+    },
+    {
+      name: 'Gypsum Boards',
+      category: 'Timber & Plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Gypsum%20Evergreens.jpg',
+      description: 'Build with confidence using our durable gypsum, designed to provide strong support and a lasting framework for your roofing and interior design projects.'
+    },
+    {
+      name: 'Gypsum Cornice Boards',
+      category: 'Timber & Plywood',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Gypsum%20Cornice%20Evergreen.jpg',
+      description: 'Build with confidence using our durable gypsum, designed to provide strong support and a lasting framework for your roofing and interior design projects.'
+    } 
   ];
 
   useEffect(() => {
