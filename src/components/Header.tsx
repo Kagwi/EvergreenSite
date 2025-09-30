@@ -38,9 +38,9 @@ const Header = () => {
               />
             </div>
             <div className="hidden md:block">
-              <div className="text-gray-800 group-hover:text-yellow-600 transition-colors duration-500">
-                <div className="text-sm font-light leading-tight">Building Dreams</div>
-                <div className="text-xs text-gray-500 group-hover:text-yellow-500 transition-colors duration-500">with Quality Materials</div>
+              <div className="text-gray-800 group-hover:text-green-600 transition-colors duration-500">
+                <div className="text-sm font-light leading-tight">Quality Materials</div>
+                <div className="text-xs text-gray-500 group-hover:text-green-500 transition-colors duration-500">Building Dreams</div>
               </div>
             </div>
           </Link>
