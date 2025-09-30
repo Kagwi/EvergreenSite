@@ -5,17 +5,18 @@ import { Phone, Mail, MapPin, Clock, Facebook, Instagram, Twitter } from 'lucide
 const Footer = () => {
   return (
     <footer
-      className="relative bg-gray-900 text-white"
+      className="relative text-white"
       style={{
-        backgroundImage: `url('/footer-bg.jpg')`, // change to your background image path
+        backgroundImage: `url('/footer-bg.jpg')`, // update path to your image
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
     >
-      {/* Transparent Overlay */}
-      <div className="absolute inset-0 bg-black bg-opacity-70 pointer-events-none"></div>
+      {/* Dark green transparent overlay (quite transparent so background shows through) */}
+      <div className="absolute inset-0 bg-green-900/30 pointer-events-none z-0"></div>
 
-      <div className="relative container mx-auto px-6 py-12">
+      {/* Content (above overlay) */}
+      <div className="relative z-10 container mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
@@ -34,26 +35,34 @@ const Footer = () => {
                 </div>
               </div>
             </div>
+
             <p className="text-gray-300 leading-relaxed">
               Your trusted partner for quality timber, hardware, and interior design materials.
               Building dreams with sustainable solutions.
             </p>
+
             <div className="flex space-x-4">
               <a
                 href="https://www.facebook.com/profile.php?id=61558606136153"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Evergreen Timberyard Facebook"
               >
                 <Facebook className="w-5 h-5 text-gray-400 hover:text-yellow-400 cursor-pointer transition-all duration-300 hover:scale-125" />
               </a>
+
               <a
                 href="https://www.instagram.com/ever_greentimber"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Evergreen Timberyard Instagram"
               >
                 <Instagram className="w-5 h-5 text-gray-400 hover:text-yellow-400 cursor-pointer transition-all duration-300 hover:scale-125" />
               </a>
-              <Twitter className="w-5 h-5 text-gray-400 hover:text-yellow-400 cursor-pointer transition-all duration-300 hover:scale-125" />
+
+              <span aria-hidden>
+                <Twitter className="w-5 h-5 text-gray-400 hover:text-yellow-400 cursor-pointer transition-all duration-300 hover:scale-125" />
+              </span>
             </div>
           </div>
 
@@ -119,6 +128,7 @@ const Footer = () => {
                 <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
                 <span className="text-gray-300 group-hover:text-yellow-400">0711 852 596</span>
               </a>
+
               <a
                 href="tel:0725767789"
                 className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
@@ -126,15 +136,15 @@ const Footer = () => {
                 <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
                 <span className="text-gray-300 group-hover:text-yellow-400">0725 767 789</span>
               </a>
+
               <a
                 href="mailto:info@evergreentimber.com"
                 className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
               >
                 <Mail className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
-                <span className="text-gray-300 group-hover:text-yellow-400">
-                  info@evergreentimber.com
-                </span>
+                <span className="text-gray-300 group-hover:text-yellow-400">info@evergreentimber.com</span>
               </a>
+
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-yellow-400 mt-1" />
                 <span className="text-gray-300">
@@ -143,26 +153,18 @@ const Footer = () => {
                   Juja Mastore, Kiambu County
                 </span>
               </div>
+
               <div className="flex items-center space-x-3">
                 <Clock className="w-5 h-5 text-yellow-400" />
-                <span className="text-gray-300">
-                  Mon-Sat: 7AM-6PM
-                  <br />
-                  Sunday: Closed
-                </span>
+                <span className="text-gray-300">Mon-Sat: 7AM-6PM<br />Sunday: Closed</span>
               </div>
             </div>
           </div>
         </div>
 
-        {/* Bottom bar */}
-        <div className="relative border-t border-gray-800 mt-8 pt-8 text-center">
-          {/* Green fade effect */}
-          <div className="absolute inset-x-0 bottom-0 h-1 bg-gradient-to-r from-green-500 via-green-400 to-green-500"></div>
-
-          <p className="text-gray-400 mb-2">
-            &copy; 2025 Evergreen Timberyard & Hardware. All rights reserved.
-          </p>
+        {/* Bottom copyright + designer */}
+        <div className="border-t border-gray-800 mt-8 pt-8 text-center">
+          <p className="text-gray-400 mb-2">&copy; 2025 Evergreen Timberyard & Hardware. All rights reserved.</p>
           <p className="text-gray-400">
             Created &amp; Designed by{' '}
             <a
@@ -174,6 +176,13 @@ const Footer = () => {
               Neonsol Creatives
             </a>
           </p>
+        </div>
+      </div>
+
+      {/* Full-width vibrant green fade effect (center green, fading to transparent at edges) */}
+      <div className="relative z-10">
+        <div className="w-full mt-6">
+          <div className="h-3 w-full bg-gradient-to-r from-transparent via-green-400 to-transparent opacity-95"></div>
         </div>
       </div>
     </footer>
