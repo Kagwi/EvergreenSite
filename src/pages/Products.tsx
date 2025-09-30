@@ -116,7 +116,7 @@ const Products = () => {
       id: 15,
       name: 'Gypsum & All other Varieties of Ceiling Boards',
       category: 'timber-plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Gypsum%20Ceiling%20Boards.jpg',
+      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Gypsum%20Evergreens.jpg',
       description: 'Discover a wide range of premium ceiling boards, from sleek gypsum panels to acoustic, PVC, flowered ceiling and all other decorative options.'
     },
     {
