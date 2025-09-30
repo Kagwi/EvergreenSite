@@ -81,8 +81,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Email</h3>
-                    <p className="text-gray-600">info@evergreentimber.com</p>
-                    <p className="text-gray-600">sales@evergreentimber.com</p>
+                    <p className="text-gray-600">evergreentimberyardandhardware@gmail.com</p>
                   </div>
                 </div>
 
@@ -249,7 +248,7 @@ const Contact = () => {
           
           <div className="bg-gray-200 rounded-xl overflow-hidden shadow-lg h-96">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.855889967099!2d37.01590877496406!3d-1.106623235187542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f39f13cfef8d5%3A0x57d390c1cce0b9f7!2sJuja%20City%20Mall!5e0!3m2!1sen!2ske!4v1695381340672!5m2!1sen!2ske"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.0244955913895!2d37.041065673206525!3d-1.1429588354825866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f45005522d04d%3A0x1f8d397348ac1530!2sEvergreen%20Timberyard%20Juja%20Mastore!5e0!3m2!1sen!2ske!4v1759252150584!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
               width="100%"
               height="100%"
               style={{ border: 0 }}
