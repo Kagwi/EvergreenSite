@@ -130,7 +130,7 @@ const Footer: React.FC = () => {
                 href="mailto:evergreentimberyardandhardware@gmail.com"
                 className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
               >
-                <Mail className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
+                <Mail className="w-10 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
                 <span className="text-gray-300 group-hover:text-yellow-400">
                   evergreentimberyardandhardware@gmail.com
                 </span>
