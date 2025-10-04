@@ -51,7 +51,7 @@ const Home = () => {
   
   const heroSlides = [
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Team_imgupscaler.ai_Upscaler_2K.jpg',
+      image: 'Evergreen Team_imgupscaler.ai_Upscaler_2K.jpg',
       title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Eco-Friendly • Elegant',
       description: 'Discover our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
