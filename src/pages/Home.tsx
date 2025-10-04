@@ -122,37 +122,37 @@ const Home = () => {
     {
       name: 'Premium Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/KIH_0036.jpg',
+      image: '/KIH_0036.jpg',
       description: 'High-quality varieties of timber perfect for all your needs from furniture making, to flooring, and construction projects.'
     },
     {
       name: 'Premium Bluegum Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Bluegum%20Evergreen%201_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Bluegum%20Evergreen%201_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality bluegum timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Fencing Poles and Posts',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
+      image: '/Evergreen%20Posts_imgupscaler.ai_Upscaler_2K.jpg',
       description: 'Get the perfect foundation for strong, long-lasting barriers with our Fencing Poles and Posts.'
     },
     {
       name: 'Range of Plywood Finishes',
       category: 'Furniture Fittings',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Range%20of%20Wood%20Finishes.jpg',
+      image: '/Range%20of%20Wood%20Finishes.jpg',
       description: 'Sleek and durable wood plywood finishes available in various styles.'
     },
     {
       name: 'Metal Trappers for Hire',
       category: 'Hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Metal%20Trappers.PNG',
+      image: '/Evergreen%20Metal%20Trappers.PNG',
       description: 'Reinforce your construction with our heavy-duty metal trappers.'
     },
     {
       name: 'Quality Hardware Building Materials',
       category: 'Hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Harware%20Building.jpg',
+      image: '/Harware%20Building.jpg',
       description: 'Discover our wide range of Quality Hardware Building Materials, including top-grade metals, fasteners, and essential construction supplies.'
     },
     {
@@ -164,97 +164,97 @@ const Home = () => {
     {
       name: 'Fences',
       category: 'Hardware',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg',
+      image: '/Evergreen%20Hardwares_imgupscaler.ai_Upscaler_2K.jpg',
       description: 'Secure and beautify your property with our durable fences.'
     },
     {
       name: 'Bathroom Fixtures',
       category: 'Hardware',    
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
+      image: '/Shiny%20Bathroom%20Elements.png',
       description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
     },
     {
       name: 'Premium Pine Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Pine%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Pine%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality pine timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Mvule Decking',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mvule%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Mvule%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality mvule timber perfect for floorsand other outdoor projects.'
     },
     {
       name: 'Pine Decking',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Pine%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Pine%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality pine timber perfect for floors and other outdoor projects. Make your floors elegant with pine decking.'
     },
     {
       name: 'Premium Mvule Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mvule%20Timber%202%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Mvule%20Timber%202%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality mvule timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Cypress Frames',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Frames%20Cypress%20Evergreen.PNG',
+      image: '/Frames%20Cypress%20Evergreen.PNG',
       description: 'High-quality cypress frames perfect for door frames. Make work easier by order frames that have already been assembled'
     },
     {
       name: 'Premium Camphor Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Camphor%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Camphor%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality mvule timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Premium Bluegum Decking',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Bluegum%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Bluegum%20Decking%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality bluegum decking perfect for beautiful and elegant floors.'
     },
     {
       name: 'Premium Mahogany Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Mahogany%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Mahogany%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality mahogany timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Premium Cypress Timber',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Cypress%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Cypress%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality cypress timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Camphor Laurel',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Camphor%20Laurel%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Camphor%20Laurel%20Timber%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'High-quality mvule timber perfect for furniture making and construction projects.'
     },
     {
       name: 'Rectangular Fencing Poles',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Fencing%20Poles%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
+      image: '/Fencing%20Poles%20Evergreen_imgupscaler.ai_v1(Fast)_2K.jpg',
       description: 'Get the perfect foundation for strong, long-lasting barriers with our fencing poles and posts'
     },
     {
       name: 'Rafters',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Rafters.png',
+      image: '/Rafters.png',
       description: 'Build with confidence using our durable timber rafters, designed to provide strong support and a lasting framework for any roofing project.'
     },
     {
       name: 'Gypsum Boards',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Gypsum%20Evergreens.jpg',
+      image: '/Gypsum%20Evergreens.jpg',
       description: 'Build with confidence using our durable gypsum, designed to provide strong support and a lasting framework for your roofing and interior design projects.'
     },
     {
       name: 'Gypsum Cornice Boards',
       category: 'Timber & Plywood',
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Gypsum%20Cornice%20Evergreen.jpg',
+      image: '/Gypsum%20Cornice%20Evergreen.jpg',
       description: 'Build with confidence using our durable gypsum, designed to provide strong support and a lasting framework for your roofing and interior design projects.'
     } 
   ];
