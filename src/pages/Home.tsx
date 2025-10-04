@@ -51,19 +51,19 @@ const Home = () => {
   
   const heroSlides = [
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Team_imgupscaler.ai_Upscaler_2K.jpg',
+      image: '/Evergreen%20Team_imgupscaler.ai_Upscaler_2K.jpg',
       title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Eco-Friendly • Elegant',
       description: 'Discover our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%201.jpg',
+      image: '/Hero%201.jpg',
       title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Durable • Beautiful',
       description: 'Order our extensive collection of premium timber and plywood for all your construction and design needs.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Evergreen%20Samidoh%202_imgupscaler.ai_Upscaler_2K.jpg',
+      image: '/Evergreen%20Samidoh%202_imgupscaler.ai_Upscaler_2K.jpg',
       title: 'Premium Quality Timberyard & Hardware',
       subtitle: 'Sustainable • Eco-Friendly • Elegant',
       description: 'Explore our extensive collection of premium timber, plywood, cement, metal trappers and more for all your construction and design needs.'
@@ -75,43 +75,43 @@ const Home = () => {
       description: 'Transform your space with our curated selection of interior design materials and fittings.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hardware.jpg',
+      image: '/Hardware.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Reliable • Innovative • Professional',
       description: 'From sinks, to faucets, padlocks,  screws, and bolts, hammers, saws, and wrenches.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hardware%202.jpg',
+      image: '/Hardware%202.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Reliable • Innovative • Professional',
       description: 'From locks, hinges, handles, and paints to nails, screws, bolts, plumbing fittings, roofing sheets, and electrical supplies.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%202.jpg',
+      image: '/Hero%202.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Reliable • Innovative • Professional',
       description: 'From power drills to steel pipes, discover a full range of reliable hardware solutions to build, repair, and upgrade your home or business projects.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%203.jpg',
+      image: '/Hero%203.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Superior Quality • Dependable • Professional',
       description: 'Visit our timberyard in Juja Near JKUAT Gate A, and mastoo, 10 min drive from Juja town.'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%204.jpg',
+      image: '/Hero%204.jpg',
       title: 'Complete Hardware Solutions',
       subtitle: 'Superior Quality • Dependable • Professional',
       description: 'We also deliver orders made online. Purchase plywood, MDF, and OSB, and many more...'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Hero%205.jpg',
+      image: '/Hero%205.jpg',
       title: 'Premium Quality Timberyard',
       subtitle: 'Sustainable • Durable • Beautiful',
       description: 'Evergreen is one stop where you will get all your timber and construction materials, under one roof at affordable prices!'
     },
     {
-      image: 'https://raw.githubusercontent.com/Kagwi/EvergreenSite/refs/heads/main/public/Shiny%20Bathroom%20Elements.png',
+      image: '/Shiny%20Bathroom%20Elements.png',
       title: 'Quality Bathroom Fixtures',
       subtitle: 'Durable •Elegant •Classy',
       description: 'Complete bathroom fixture sets including towel bars, toilet paper holders, and robe hooks in matching finishes.'
