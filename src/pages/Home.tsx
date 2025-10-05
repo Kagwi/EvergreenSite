@@ -325,7 +325,7 @@ return ( <div className="pt-16">
             animation: gradient 8s ease infinite;
           }
         `} 
-</style>
+)</style>
 
   {/* Hero Section */}
   <section className="relative h-screen overflow-hidden">
