@@ -164,7 +164,7 @@ const About = () => {
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-800 mb-4">Here's More From Evergreen's Director's</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">Here's More From Evergreen's Directors</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Take a virtual tour of our timberyard and discover what makes Evergreen special
             </p>
@@ -172,21 +172,29 @@ const About = () => {
 
           <div className="max-w-4xl mx-auto">
             <div className="relative bg-black rounded-2xl shadow-2xl overflow-hidden group">
-              {/* Video Player */}
+              {/* Video Player with Enhanced Configuration */}
               <video 
                 className="w-full h-auto rounded-2xl"
                 controls
+                playsInline
+                preload="metadata"
+                style={{ minHeight: '400px', backgroundColor: '#000' }}
               >
                 <source 
                   src="/Evergreen Directors.mp4" 
                   type="video/mp4" 
                 />
+                <source 
+                  src="/Evergreen Directors.webm" 
+                  type="video/webm" 
+                />
                 Your browser does not support the video tag.
+                <p>If the video doesn't play, please check that your video file is in the public folder and named "Evergreen Directors.mp4"</p>
               </video>
               
-              {/* Optional: Custom Play Button Overlay */}
-              <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                <div className="w-20 h-20 bg-green-600/80 hover:bg-green-500/90 rounded-full flex items-center justify-center cursor-pointer backdrop-blur-sm transition-all duration-300 transform hover:scale-110">
+              {/* Custom Play Button Overlay */}
+              <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none">
+                <div className="w-20 h-20 bg-green-600/80 rounded-full flex items-center justify-center backdrop-blur-sm">
                   <Play className="w-8 h-8 text-white ml-1" />
                 </div>
               </div>
