@@ -309,7 +309,7 @@ return ( <div className="pt-16">
 {`;           @keyframes bubble ;{
             0% { transform: translateY(0) scale(1); opacity: 0.6; }
             50% { opacity: 1; }
-            100% { transform: translateY(-120vh) scale(1.5); opacity: 0; }
+            100% { transform: translateY(-120vh) } scale(1.5); opacity: 0; }
           }
           .animate-bubble {
             animation: bubble linear infinite;
