@@ -339,7 +339,7 @@ return ( <div className="pt-16">
             key={i}
             className="absolute bg-white/40 rounded-full animate-bubble"
             style={{
-              left: `;$;{Math.random() * 100}%`,
+              left: `;$;{Math.random() * 100}`,
               bottom: `-${Math.random() * 80}px`,
               width: `${size}px`,
               height: `${size}px`,
