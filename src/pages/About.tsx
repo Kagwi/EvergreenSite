@@ -176,7 +176,6 @@ const About = () => {
               <video 
                 className="w-full h-auto rounded-2xl"
                 controls
-                poster="/path-to-your-video-thumbnail.jpg" {/* Optional: Add a thumbnail image */}
               >
                 <source 
                   src="YOUR_VIDEO_URL_HERE" 
