@@ -166,7 +166,7 @@ const About = () => {
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-800 mb-4">Here's More From Evergreen's Directors</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Take a virtual tour of our timberyard and discover what makes Evergreen special
+              Get More Acquainted with our Brand
             </p>
           </div>
 
