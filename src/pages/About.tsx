@@ -164,7 +164,7 @@ const About = () => {
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-800 mb-4">See Evergreen in Action</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">Here's More From Evergreen's Director's</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Take a virtual tour of our timberyard and discover what makes Evergreen special
             </p>
@@ -178,12 +178,8 @@ const About = () => {
                 controls
               >
                 <source 
-                  src="YOUR_VIDEO_URL_HERE" 
+                  src="/Evergreen Directors.mp4" 
                   type="video/mp4" 
-                />
-                <source 
-                  src="YOUR_VIDEO_URL_HERE" 
-                  type="video/webm" 
                 />
                 Your browser does not support the video tag.
               </video>
