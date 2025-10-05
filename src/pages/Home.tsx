@@ -25,7 +25,7 @@ const AnimatedCounter = ({
       { threshold: 0.1 }
     );
     
-    const element = document.getElementById(`counter-${end}`);
+    const element = document.getElementById(`counter-${end}`);;
     if (element) observer.observe(element);
 
     return () => observer.disconnect();
