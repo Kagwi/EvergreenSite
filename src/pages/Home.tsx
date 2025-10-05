@@ -324,7 +324,7 @@ return ( <div className="pt-16">
             background-size: 200% 200%;
             animation: gradient 8s ease infinite;
           }
-        `})</style>
+        })</style>
   {/* Hero Section */}
   <section className="relative h-screen overflow-hidden">
     {/* Gradient Background (z-0 behind slides) */}
