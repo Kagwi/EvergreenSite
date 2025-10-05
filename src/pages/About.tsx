@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Award, Users, Leaf, Target } from 'lucide-react';
+import { Award, Users, Leaf, Target, Play } from 'lucide-react';
 
 const About = () => {
   return (
@@ -154,6 +154,73 @@ const About = () => {
                     <div className="text-sm text-gray-600">Years Leading Evergreen</div>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Video Section */}
+      <section className="py-16 bg-gray-50">
+        <div className="container mx-auto px-6">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">See Evergreen in Action</h2>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+              Take a virtual tour of our timberyard and discover what makes Evergreen special
+            </p>
+          </div>
+
+          <div className="max-w-4xl mx-auto">
+            <div className="relative bg-black rounded-2xl shadow-2xl overflow-hidden group">
+              {/* Video Player */}
+              <video 
+                className="w-full h-auto rounded-2xl"
+                controls
+                poster="/path-to-your-video-thumbnail.jpg" {/* Optional: Add a thumbnail image */}
+              >
+                <source 
+                  src="YOUR_VIDEO_URL_HERE" 
+                  type="video/mp4" 
+                />
+                <source 
+                  src="YOUR_VIDEO_URL_HERE" 
+                  type="video/webm" 
+                />
+                Your browser does not support the video tag.
+              </video>
+              
+              {/* Optional: Custom Play Button Overlay */}
+              <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                <div className="w-20 h-20 bg-green-600/80 hover:bg-green-500/90 rounded-full flex items-center justify-center cursor-pointer backdrop-blur-sm transition-all duration-300 transform hover:scale-110">
+                  <Play className="w-8 h-8 text-white ml-1" />
+                </div>
+              </div>
+            </div>
+
+            {/* Video Description */}
+            <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div className="text-center p-6 bg-white rounded-lg shadow-lg">
+                <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <Target className="w-6 h-6 text-green-600" />
+                </div>
+                <h4 className="font-bold text-gray-800 mb-2">Premium Quality</h4>
+                <p className="text-gray-600 text-sm">See our carefully selected timber and materials up close</p>
+              </div>
+              
+              <div className="text-center p-6 bg-white rounded-lg shadow-lg">
+                <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <Users className="w-6 h-6 text-green-600" />
+                </div>
+                <h4 className="font-bold text-gray-800 mb-2">Expert Team</h4>
+                <p className="text-gray-600 text-sm">Meet our knowledgeable staff ready to assist you</p>
+              </div>
+              
+              <div className="text-center p-6 bg-white rounded-lg shadow-lg">
+                <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <Leaf className="w-6 h-6 text-green-600" />
+                </div>
+                <h4 className="font-bold text-gray-800 mb-2">Sustainable Practices</h4>
+                <p className="text-gray-600 text-sm">Learn about our commitment to environmental responsibility</p>
               </div>
             </div>
           </div>
