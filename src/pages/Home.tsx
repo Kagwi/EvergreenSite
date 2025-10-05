@@ -52,7 +52,7 @@ requestAnimationFrame(animate);
 }, [isVisible, end, duration]);
 
 return (
-<div id={`counter-${end}`}; 
+<div id={`;counter-${end}`} 
 className="text-3xl font-light text-green-600 mb-2 group-hover:scale-110 transition-transform duration-300"
 >
 {count}
