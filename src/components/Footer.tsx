@@ -117,7 +117,7 @@ const Footer: React.FC = () => {
               >
                 <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
                 <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
-                  0711 852 596
+                  0711 852 596 — Director Joyce
                 </span>
               </a>
               <a
@@ -126,7 +126,34 @@ const Footer: React.FC = () => {
               >
                 <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
                 <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
-                  0725 767 789
+                  0725 767 789 — Director Paul
+                </span>
+              </a>
+              <a
+                href="tel:0702306086"
+                className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
+              >
+                <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
+                <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
+                  0702 306 086 — Evergreen Juja Branch
+                </span>
+              </a>
+              <a
+                href="tel:0719232451"
+                className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
+              >
+                <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
+                <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
+                  0719 232 451 — Evergreen Mastore Branch
+                </span>
+              </a>
+              <a
+                href="tel:01160959304"
+                className="flex items-center space-x-3 hover:text-yellow-400 transition-colors group"
+              >
+                <Phone className="w-5 h-5 text-yellow-400 group-hover:scale-125 transition-transform duration-300" />
+                <span className="block text-gray-300 group-hover:text-yellow-400 break-words">
+                  0116 095 9304 — Evergreen Athi Branch
                 </span>
               </a>
               <div className="flex items-start space-x-3">
