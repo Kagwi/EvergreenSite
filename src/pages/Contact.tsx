@@ -70,8 +70,11 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Phone</h3>
-                    <p className="text-gray-600">0711 852 596</p>
-                    <p className="text-gray-600">0725 767 789</p>
+                    <p className="text-gray-600">0711 852 596  Director Joyce </p>
+                    <p className="text-gray-600">0725 767 789   Director Paul </p>
+                    <p className="text-gray-600">0702 306 086   Evergreen Juja Branch </p>
+                    <p className="text-gray-600">0719 232 451   Evergreen Mastore Branch </p>
+                    <p className="text-gray-600">01160 959 304 Evergreen Athi Branch </p>
                   </div>
                 </div>
 
